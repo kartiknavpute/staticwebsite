@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#information
+# information
 This repo is created as purpose of deploy application or static website on AWS Amplify with the help of GitHub
 i will create a video on it how to deploy your Static website on your AWS Amplify with the help of Github.
